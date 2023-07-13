@@ -7,5 +7,6 @@ public class HelloPlayer{
 		System.out.println(welcomer.sayFarewell());
 		System.out.println(welcomer.sayFarewell());
 		System.out.println(welcomer.sayFarewell());
+		System.out.println(welcomer.sayFarewell());
 	}
 }
